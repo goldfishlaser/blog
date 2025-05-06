@@ -2,5 +2,7 @@
 title: Thoughts of an Infonaut
 author: Melanie Allen
 description: Musings on technology trends, my projects, and vocation as a technical communicator 
-theme: hacker
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 ...
