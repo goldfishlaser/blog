@@ -1,4 +1,6 @@
 ---
-title: Welcome to my blog
+title: Thoughts of an Infonaut
+author: Melanie Allen
+description: Musings on technology trends, my projects, and vocation as a technical communicator 
 ---
 
