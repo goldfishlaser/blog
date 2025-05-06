@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "Hello world!"
 date: 2025-05-06
+categories: blog
 ---
 
 Hello there! I'm excited to start this new blog where I plan to discuss my thoughts on technology trends, what I'm learning, and what I'm working on. 
