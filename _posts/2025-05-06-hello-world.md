@@ -11,7 +11,7 @@ Lately, most of what I'm working on falls into four buckets:
 * Expanding my technical knowledge - from software documentation to security, DevOps, cloud, and networking
 * Building and refining my portfolio - exporing new ideas for my web site and blog content
 * Self-hosting experiments - media servers, infrastructure tweaks, and more
-* Contributing to open-source - Supporting projects like BusKill, Tetra Bio Limited, and Open Source Ecology.
+* Contributing to open-source - Supporting projects like BusKill, Tetra Bio Distributed, and Open Source Ecology.
 
 Topics I'd like to cover soon include:
 I plan to cover: 
