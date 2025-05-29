@@ -32,13 +32,15 @@ A Desktop Wire EDM Machine
 ### Recreator3D 
 The machine that turns plastic bottles into filament which can be used to make more of itself. https://www.recreator3d.com/
 
-
 ### HueForge
 Software that turns art into 3D printed art
 ![image](https://github.com/user-attachments/assets/3b8d9e67-aecf-4c5f-9728-eb67d8219688)
 
+### Nevermore
+https://github.com/nevermore3d/Nevermore_Micro
 
-### 
+### Icosphere
+https://www.whitcorp-labs.com/
 ![image](https://github.com/user-attachments/assets/2e940327-ce39-47ab-b7e8-7f5fb918959e)
 
 ### Honorable Mentions
