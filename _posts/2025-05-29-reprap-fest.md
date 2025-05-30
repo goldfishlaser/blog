@@ -19,18 +19,23 @@ If you're averse to renting a car, I will note that from the Airport, you can ta
 
 ## Festival Recap
 
-The festival was well attended and there were many great projects, makers, and companies to explore. I do think it is possible to cover the entire festival in a day, whether one goes on Saturday or Sunday, however we chose to cover most of the festival on Saturday and then go for food in Downtown Loveland. 
+The festival was well attended and there were many great projects, makers, and companies to explore. If necessary, it is possible to cover the entire festival in a day, whether one goes on Saturday or Sunday, however we chose to cover most of the festival on Saturday and then go for food in Downtown Loveland, leaving the rest for the next day. I enjoyed many great conversations, and was surprised by how under a rock I have apparently been about certain developments 3D printing and other decentralizaed manufacturing technology, despite my attempts to keep tabs on it. 
+![Group photo at Recreator3D booth](https://github.com/user-attachments/assets/4ee8f473-efd1-44fa-b5ca-5689665993d2) 
 
-What struck me most is just how wild the transformation of 3D printing and other decentralizaed manufacturing technology has been over the last 10 years. Let's talk about some of my favorite projects at the festival. 
+On Sunday, while Sean showed his Mom some of the festival we had covered the previous day, I found a quiet corner to demonstrate my 3D printed Dragonstaff. I didn't take any footage of this, so you'll just have to take my word for it. I enjoyed how the Dragonstaff was an ice breaker and conversation-maker with many folks at the festival, but I particularly appreciated how many children were amazed and enthralled by it, a welcome surprise. My festival buddy was also giving out circuit boards for the Tetra Bio Distributed PAPRa. I am currently working on building one of these PAPRas as well, even as I write this blog post, my printer is making the parts.
+
+Let's talk about some of my favorite projects at the festival. 
 
 ### Baby Belt
-![image](https://github.com/user-attachments/assets/2f800b1b-84e5-4918-9079-c76ee5253584)
+![Photo of Baby Belt conveyer belt printer](https://github.com/user-attachments/assets/2f800b1b-84e5-4918-9079-c76ee5253584)
+The Baby Belt is very cool and has immediately entered my queue of desired projects. I've always wanted a conveyer belt printer, and this conveyer belt printer in delightfully small form factor seems like a budget friendly choice that would meet my needs perfectly fine.  
 
 ### Rack Robotics 
 A Desktop Wire EDM Machine 
 
 ### Recreator3D 
-The machine that turns plastic bottles into filament which can be used to make more of itself. https://www.recreator3d.com/
+The Recreator3D project is all about turning plastic bottles into filament and new things. From their docs: "The PET1 Plastic Pultrusion Unit allows use of valuable material you've already paid for! Being able to make filament in the comfort of your own home eliminates the need to transport filament, which reduces the carbon footprint, e-waste, and product waste."  I'd already been clued into this project beforehand by Sean, who has generously started me off with some of the pullstruder's parts, printed in PET. Hopefully, I'll get started on the pulstruder soon. This is one of my favorite projects because of its ecological impact and because decentralized recycling is a critical part in making sure that plastic bottles actually do get recycled. And although I don't often have a usecase for plastic bottles in my own life, I hope I'll be able to get them from my community, which would provide me filament at the low cost of free.99. 
+https://www.recreator3d.com/
 
 ### HueForge
 Software that turns art into 3D printed art
@@ -48,9 +53,11 @@ https://www.whitcorp-labs.com/
 * Enjoyed trying out the Head(amame), which certainly did offer a great sound experience; I'd love to print myself some headphones someday! https://headamame.com/
 * V1 Engineering booth was a super cool time with great interactive demos, and I love that their stuff is mostly 3D printed! https://www.v1e.com/
 * Voron https://vorondesign.com/
+* The upside-down printer
+  
 
 ## Final Thoughts
 I greatly enjoyed the festival and intend to visit it again, as well as the festivals which happen in other locations. An interesting idea they have for RepRap Fest is the idea of printing these little poker chips. The idea is to create little printed souvenirs that one can easily collect and store because they're all the same form factor. I wonder if this trend could catch on at DEFCON, and in any case, I think I'll try printing some poker chips for any festivals I go to now anyhow. :) 
 
-I highly recommend the food at . 
+I highly recommend the food at Himalayan Curry Kabob. Excellent menu options, great service, and everyone loved their food.  
 ![image](https://github.com/user-attachments/assets/ff8e198e-bfbb-42c7-ac85-f7f2102808b5)
