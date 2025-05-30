@@ -51,7 +51,7 @@ Software that turns art into 3D printed art
 * Icoscanner https://www.whitcorp-labs.com/ ![image](https://github.com/user-attachments/assets/2e940327-ce39-47ab-b7e8-7f5fb918959e)
 
 ## Final Thoughts
-I greatly enjoyed the festival and intend to visit it again, as well as the festivals which happen in other locations. If you'd like to see some footage, and details of the fest from some other perspectives, I really liked these videos by Maker's Corner https://www.youtube.com/watch?v=CkLzRpmtlYs and Zachary 3D Prints https://www.youtube.com/watch?v=rcUzjToJ32s.
+I greatly enjoyed the festival and intend to visit it again, as well as the festivals which happen in other locations. If you'd like to see some footage, and details of the fest from some other perspectives, I really liked this video by Makers Corner https://www.youtube.com/watch?v=CkLzRpmtlYs.
 
 An interesting trend they had at RepRap Fest are printed poker chips. The idea is that poker chips make great souvenirs that are easily collectable and stored because they're all the same form factor. I wonder if this trend could catch on at DEFCON, and in any case, I think I'll try printing some poker chips for any festivals I go to now anyhow. :) 
 
