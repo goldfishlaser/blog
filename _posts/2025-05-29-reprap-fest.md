@@ -37,18 +37,19 @@ https://www.recreator3d.com/
 
 ### Nevermore
 https://github.com/nevermore3d/Nevermore_Micro
+The Nevermore Micro is an activated carbon filter designed to mitigate the emissions of volatile organic compounds (VOCs) and ultrafine particles (UFPs) from 3D printers.
+
 
 ### HueForge
 Software that turns art into 3D printed art
 ![image](https://github.com/user-attachments/assets/3b8d9e67-aecf-4c5f-9728-eb67d8219688)
 
 ### Honorable Mentions
-* Loved seeing the Cocoa Press in action - a chocolate 3D printer - although I wasn't fortunate enough to try one of its chocolates! (although, I think they were using milk chocolate so I wouldn't try anyway). https://cocoapress.com/
-* Enjoyed trying out the Head(amame), which certainly did offer a great sound experience; I'd love to print myself some headphones someday! https://headamame.com/
-* V1 Engineering booth was a super cool time with great interactive demos, and I love that their stuff is mostly 3D printed! https://www.v1e.com/
-* Voron https://vorondesign.com/
-* The upside-down printer
-* Icoscanner https://www.whitcorp-labs.com/ ![image](https://github.com/user-attachments/assets/2e940327-ce39-47ab-b7e8-7f5fb918959e)
+* Cocoa Press: Loved seeing the chocolate 3D printer in action, although I was not so lucky to sample one myself. https://cocoapress.com/
+* Head(amame): Fun creation and offered a great sound experience; I'd love to print one someday! https://headamame.com/
+* V1 Engineering: very neat open source machines, and great interactive demos, and I love that their stuff is mostly 3D printed! https://www.v1e.com/ 
+* Positron: A compact, portable, and upside-down printer https://www.positron3d.com/
+* Icoscanner: A dymaxion structure with many cameras at intersections that are used with photogrammetry to create a 3D scan.  ![image](https://github.com/user-attachments/assets/2e940327-ce39-47ab-b7e8-7f5fb918959e) https://www.whitcorp-labs.com/ 
 
 ## Final Thoughts
 I greatly enjoyed the festival and intend to visit it again, as well as the festivals which happen in other locations. If you'd like to see some footage, and details of the fest from some other perspectives, I really liked this video by Makers Corner https://www.youtube.com/watch?v=CkLzRpmtlYs.
