@@ -13,8 +13,6 @@ This year, I attended Rocky Mountain RepRap Festival (RMRRF) on May 17th and 18t
 
 I rented a car for my adventure, which turned out to be a Bronco. For lodging, I camped at Boyd Lake State Park with Sean and his Mom.  Boyd Lake has many amenities, such as restrooms, showers, and water, so it was quite comfortable. We were fortunate to have great weather during the camping.
 
-![Photo of Melanie, Sean, and Mom](https://github.com/user-attachments/assets/e593852d-f184-47d7-8840-d01a0b8d30bb)
-
 If you're averse to renting a car, I will note that from the Airport, you can take the RTD Rail to Union Station and then take the Bustang to Loveland. Boyd Lake State Park is near the Bustang stop in Loveland called "The Hub".  But unless you are a biking fanatic, you will need a rideshare to get from the Hub to Boyd Lake and from Boyd Lake to RMRRF.
 
 ## Festival Recap
