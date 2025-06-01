@@ -52,7 +52,7 @@ Rack Robotics had a live demonstration of wire EDM technology used in their desk
 
 The Recreator3D project focuses on transforming used plastic bottles into usable 3D printing filament. From their docs: "The PET1 Plastic Pultrusion Unit allows use of valuable material you've already paid for! Being able to make filament in the comfort of your own home eliminates the need to transport filament, which reduces the carbon footprint, e-waste, and product waste."  
 
-I’d been following this project thanks to Sean, who kindly gave me some parts for the pulstruder printed in PET. I plan to start building mine soon. <img src="https://github.com/user-attachments/assets/0e063743-20e1-4880-927c-e9ddb9e77df4" alt="Photo of plastic parts Sean gave me" style="transform: rotate(90deg); width: 220px; margin-left: 15px; margin-bottom: 10px; max-width: 100%;">
+I’d been following this project thanks to Sean, who kindly gave me some parts for the pulstruder printed in PET. I plan to start building mine soon. <img src="https://github.com/user-attachments/assets/0e063743-20e1-4880-927c-e9ddb9e77df4" alt="Photo of plastic parts Sean gave me" style="transform: rotate(90deg); width: 220px; float:right; margin-left: 15px; margin-bottom: 10px; max-width: 100%;">
 
 This project stands out to me for its ecological importance—decentralized recycling is vital if we want to ensure that single-use plastics actually get reused. While I don’t go through many plastic bottles personally, I hope to collect some from my local community and convert them into filament at virtually no cost.
 
