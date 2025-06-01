@@ -31,7 +31,7 @@ On Sunday, while Sean showed his Mom some of the festival we had covered the pre
 Let's talk about some of my favorite projects at the festival. 
 
 ### Baby Belt
-<img src="https://github.com/user-attachments/assets/2f800b1b-84e5-4918-9079-c76ee5253584" alt="Photo of Baby Belt conveyer belt printer" style="max-width: 100%; width: 300px; float: left; margin-right: 15px;">
+<img src="https://github.com/user-attachments/assets/2f800b1b-84e5-4918-9079-c76ee5253584" alt="Photo of Baby Belt conveyer belt printer" style="max-width: 100%; width: 300px; margin-right: 15px;">
 
 - [Web Site](https://www.reprap.org/wiki/BabyBelt)
 - [Github](https://github.com/RobMink/Babybelt)
@@ -39,7 +39,7 @@ Let's talk about some of my favorite projects at the festival.
 The Baby Belt is very cool and has immediately entered my queue of desired projects. I've always wanted a conveyer belt printer, and this conveyer belt printer in delightfully small form factor seems like a budget friendly choice that would meet my needs perfectly fine.  
 
 ### Rack Robotics 
-<img src="https://github.com/user-attachments/assets/6c396602-8ea8-4d61-8ecc-fe1fe066bdf8" alt="Image of Rack Robotics demo" style="max-width: 100%; width: 300px; float: left; margin-right: 15px;">
+<img src="https://github.com/user-attachments/assets/6c396602-8ea8-4d61-8ecc-fe1fe066bdf8" alt="Image of Rack Robotics demo" style="max-width: 100%; width: 300px; margin-right: 15px;">
 
 - [Web Site](https://rackrobo.io/)
 - [Github](https://github.com/Rack-Robotics/docs)
@@ -68,14 +68,14 @@ The Nevermore Micro is an activated carbon filter designed to mitigate the emiss
 It’s a community-built solution, designed by makers for makers. The Nevermore Micro can be installed inside many printer enclosures, where it actively filters the air near the hotend and print bed. It’s compact, efficient, completely open-source and printable. Personally, I see this kind of innovation as vital. Just like we wear safety goggles when soldering or use ventilation when laser cutting, we should normalize air filtration as a baseline best practice for filament-based 3D printing.
 
 ### Honorable Mentions
-* Cocoa Press [Site]( https://cocoapress.com/): I loved seeing it in action, though I didn’t get to taste any samples.<img src="https://github.com/user-attachments/assets/5fbd8dab-6db2-48cb-a8b8-d893c2d6cb51" alt="Photo of Cocoa press" style="max-width: 100%; width: 300px;">
+* Cocoa Press [Site]( https://cocoapress.com/): I loved seeing it in action, though I didn’t get to taste any samples.<img src="https://github.com/user-attachments/assets/5fbd8dab-6db2-48cb-a8b8-d893c2d6cb51" alt="Photo of Cocoa press" style="max-width: 100%; float: left; width: 300px;">
 * Head(amame) [Site](https://headamame.com/): Great sound experience and love the idea of my own custom headphones -- I'd love to print one someday! 
 * V1 Engineering [Site](https://www.v1e.com/): Very cool open-source machines, interactive demos, and I love that their builds are mostly 3D printed! <img src="https://github.com/user-attachments/assets/2b316cfa-b234-4d07-b5d0-719997997e8d" alt="Photo of V1 CNC machine" style="max-width: 100%; width: 300px;">
 * Positron [Site](https://www.positron3d.com/): A compact, portable, upside-down printer that caught my attention. 
-* Icoscanner [Site](https://www.whitcorp-labs.com/): A Dymaxion-influenced 3D photogrammetry scanner made from a geometric shell embedded with cameras.  <img src="https://github.com/user-attachments/assets/2e940327-ce39-47ab-b7e8-7f5fb918959e" alt="Photo of Icoscanner" style="max-width: 100%; width: 300px;">
+* Icoscanner [Site](https://www.whitcorp-labs.com/): A Dymaxion-influenced 3D photogrammetry scanner made from a geometric shell embedded with cameras.  <img src="https://github.com/user-attachments/assets/2e940327-ce39-47ab-b7e8-7f5fb918959e" alt="Photo of Icoscanner" style="max-width: 100%; float: left; width: 300px;">
 
 * HueForge is a software platform that transforms digital images into 3D printable art with depth and color transitions. Their display was incredible-- they made it from many gorgeous faux bricks and showcased numerous art works. A labor of many hours, for both print time and assembly. HueForge software is not open source and does cost money to purchase.
-<img src="https://github.com/user-attachments/assets/3b8d9e67-aecf-4c5f-9728-eb67d8219688" alt="HueForge display image" style="max-width: 100%; width: 300px;">
+<img src="https://github.com/user-attachments/assets/3b8d9e67-aecf-4c5f-9728-eb67d8219688" alt="HueForge display image" style="max-width: 100%; float: left; width: 300px;">
 
 
 ## Final Thoughts
