@@ -5,20 +5,25 @@ date: 2025-05-29
 categories: blog
 ---
 
-This year, I attended Rocky Mountain RepRap Festival (RMRRF) on May 17th and 18th, 2025 at the Pedersen Toyota Center in Loveland, Colorado. My interest in RepRap is longstanding; I acquired the parts and built a Prusa Mendel XL RepRap in 2012-2014. Learning the aim of the RepRap project was one of my fundamental influences as a young person, attracting me to projects with the core ideas of creating machines that replicate themselves, rapid iteration, open source community development, and decentralized manufacturing. Yet, this was my first time attending a RepRap festival. 
+This year, I attended Rocky Mountain RepRap Festival (RMRRF) on May 17-18, 2025 at the Pedersen Toyota Center in Loveland, Colorado. My interest in RepRap is longstanding. Learning the aim of the RepRap project was one of my fundamental influences as a young person, attracting me to projects with the core ideas of creating machines that replicate themselves, rapid iteration, open source community development, and decentralized manufacturing. I acquired the parts and built a Prusa Mendel XL RepRap in 2012-2014. Yet, this was my first time attending a RepRap festival. 
 
 ![Photo of Prusa Mendel XL RepRap](https://github.com/user-attachments/assets/7867ce33-4b7e-4bc5-a637-00a25b8048a6)
 
 ## Logistics
 
-I rented a Bronco for transportation to the festival location. For lodging, I camped at Boyd Lake State Park with my festival buddies, Sean and his mom.  Boyd Lake has many amenities, such as restrooms, showers, and water, so it was quite comfortable. We were fortunate to have great weather, just a little chilly at night. It seems in May you should have cold, temperate, hot, and rainy weather clothing options. Layers are your friend.
+I flew Frontier Airlines and rented a Bronco at the Denver International airport for transportation during my trip. I accidentally took a toll road from the airport to Loveland, CO, which is something that one can avoid in exchange for a little extra travel time. I camped a tent at Boyd Lake State Park with my festival buddies, Sean and his mom, who travelled there and camped in an RV.  Boyd Lake has many amenities, such as restrooms, showers, and water, so it was quite comfortable. We were fortunate to have great weather, with it only being a little chilly at night. It seems when travelling to Colorado in May you should have cold, temperate, hot, and rainy weather clothing options. Layers are your friend.
 
-For those averse to renting a car, I will note that from the Airport, you can take the RTD Rail to Union Station and then take the Bustang to Loveland. Boyd Lake State Park is near the Bustang stop in Loveland called "The Hub".  But unless you are a biking fanatic, you will need a rideshare to get from the Hub to Boyd Lake and from Boyd Lake to RMRRF.
+If you wanted to avoid renting a car, I will note that from the Airport, you can take the RTD Rail to Union Station and then take the Bustang to Loveland. Boyd Lake State Park is near the Bustang stop in Loveland called "The Hub".  But unless you are a biking fanatic, you would need a rideshare to get from the Hub to Boyd Lake and from Boyd Lake to RMRRF. However, this is how I returned to Boyd Lake State Park from the Airport when my flight home was interrupted by inclement weather and I ended up camping an extra night.
 
 ## Festival Recap
 
-The festival was well attended and there were many great projects, makers, and companies to explore. If necessary, it is possible to cover the entire festival in a day, whether one goes on Saturday or Sunday, however we chose to cover most of the festival on Saturday and then go for food in Downtown Loveland, leaving the rest for the next day. I enjoyed many great conversations, and was surprised by how under a rock I have apparently been about certain developments 3D printing and other decentralized manufacturing technology, despite my attempts to keep tabs on it. 
 ![Group photo at Recreator3D booth](https://github.com/user-attachments/assets/4ee8f473-efd1-44fa-b5ca-5689665993d2) 
+
+The festival was well attended and there were many great projects, makers, and companies to explore. If necessary, it is possible to cover the entire festival in a day, whether one goes on Saturday or Sunday. But as we were attending both days, we covered most of festival on Saturday but left a little early to go have lunch in Downtown Loveland. 
+
+Prepare to have your ticket ready on your phone at the door. I did not and this caused a minor delay as the horrible signal in the area made me unable to readily download my ticket. Even though the conference is free, the event wants you to register so they can know how many people are attending. Once we showed our tickets, we received a map, complementary bag, name tag, and swag. 
+
+I was immediately surprised by the visually arresting HueForge display, which I will go into more details later. Enjoyed many great conversations with attendees while making my way through the conference. It is neat to be able to see a lot of amazing machines I would not ordinarily get a chance to see, such as huge printers, printers with 6 interchangable toolheads, printers with non-cartesian beds, and more. And no where else would one see such a wide variety of 3D printed creations, such as a lifesize batman, an R2D2, a macalauren sports car, and a full-size street lamp. 
 
 On Sunday, while Sean showed his Mom some of the festival we had covered the previous day, I found a quiet corner to demonstrate my 3D-printed Dragonstaff. I didn't take any footage of this, so you'll just have to take my word for it. I enjoyed how the Dragonstaff was an ice breaker and conversation-maker with many folks at the festival, including many fellow flow artists and prop-makers, but I particularly appreciated how many children were amazed and enthralled by it, a welcome surprise. My festival buddy gave out circuit boards for the Tetra Bio Distributed PAPRa (https://tetrabiodistributed.github.io/papra/). I recently began working on building one a PAPRa myself; as I write this blog post, my printer is making the parts.
 
@@ -38,7 +43,6 @@ https://www.recreator3d.com/
 ### Nevermore
 https://github.com/nevermore3d/Nevermore_Micro
 The Nevermore Micro is an activated carbon filter designed to mitigate the emissions of volatile organic compounds (VOCs) and ultrafine particles (UFPs) from 3D printers.
-
 
 ### HueForge
 Software that turns art into 3D printed art
