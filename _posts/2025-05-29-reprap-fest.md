@@ -52,9 +52,7 @@ Rack Robotics had a live demonstration of wire EDM technology used in their desk
 
 The Recreator3D project focuses on transforming used plastic bottles into usable 3D printing filament. From their docs: "The PET1 Plastic Pultrusion Unit allows use of valuable material you've already paid for! Being able to make filament in the comfort of your own home eliminates the need to transport filament, which reduces the carbon footprint, e-waste, and product waste."  
 
-I’d been following this project thanks to Sean, who kindly gave me some parts for the pulstruder printed in PET. I plan to start building mine soon.<img src="https://github.com/user-attachments/assets/0e063743-20e1-4880-927c-e9ddb9e77df4" alt="Photo of plastic parts Sean gave me" style="float: right; transform: rotate(90deg); width: 220px; margin-left: 15px; margin-bottom: 10px; max-width: 100%;">
-
-
+I’d been following this project thanks to Sean, who kindly gave me some parts for the pulstruder printed in PET. I plan to start building mine soon. <img src="https://github.com/user-attachments/assets/0e063743-20e1-4880-927c-e9ddb9e77df4" alt="Photo of plastic parts Sean gave me" style="float: right; width: 220px; margin-left: 15px; margin-bottom: 10px; max-width: 100%;">
 
 This project stands out to me for its ecological importance—decentralized recycling is vital if we want to ensure that single-use plastics actually get reused. While I don’t go through many plastic bottles personally, I hope to collect some from my local community and convert them into filament at virtually no cost.
 
@@ -68,14 +66,14 @@ The Nevermore Micro is an activated carbon filter designed to mitigate the emiss
 It’s a community-built solution, designed by makers for makers. The Nevermore Micro can be installed inside many printer enclosures, where it actively filters the air near the hotend and print bed. It’s compact, efficient, completely open-source and printable. Personally, I see this kind of innovation as vital. Just like we wear safety goggles when soldering or use ventilation when laser cutting, we should normalize air filtration as a baseline best practice for filament-based 3D printing.
 
 ### Honorable Mentions
-* Cocoa Press [Site]( https://cocoapress.com/): I loved seeing it in action, though I didn’t get to taste any samples.<img src="https://github.com/user-attachments/assets/5fbd8dab-6db2-48cb-a8b8-d893c2d6cb51" alt="Photo of Cocoa press" style="max-width: 100%; float: left; width: 300px;">
+* Cocoa Press [Site]( https://cocoapress.com/): I loved seeing it in action, though I didn’t get to taste any samples.<img src="https://github.com/user-attachments/assets/5fbd8dab-6db2-48cb-a8b8-d893c2d6cb51" alt="Photo of Cocoa press" style="max-width: 100%; width: 300px;">
 * Head(amame) [Site](https://headamame.com/): Great sound experience and love the idea of my own custom headphones -- I'd love to print one someday! 
 * V1 Engineering [Site](https://www.v1e.com/): Very cool open-source machines, interactive demos, and I love that their builds are mostly 3D printed! <img src="https://github.com/user-attachments/assets/2b316cfa-b234-4d07-b5d0-719997997e8d" alt="Photo of V1 CNC machine" style="max-width: 100%; width: 300px;">
 * Positron [Site](https://www.positron3d.com/): A compact, portable, upside-down printer that caught my attention. 
-* Icoscanner [Site](https://www.whitcorp-labs.com/): A Dymaxion-influenced 3D photogrammetry scanner made from a geometric shell embedded with cameras.  <img src="https://github.com/user-attachments/assets/2e940327-ce39-47ab-b7e8-7f5fb918959e" alt="Photo of Icoscanner" style="max-width: 100%; float: left; width: 300px;">
+* Icoscanner [Site](https://www.whitcorp-labs.com/): A Dymaxion-influenced 3D photogrammetry scanner made from a geometric shell embedded with cameras.  <img src="https://github.com/user-attachments/assets/2e940327-ce39-47ab-b7e8-7f5fb918959e" alt="Photo of Icoscanner" style="max-width: 100%;  width: 300px;">
 
 * HueForge is a software platform that transforms digital images into 3D printable art with depth and color transitions. Their display was incredible-- they made it from many gorgeous faux bricks and showcased numerous art works. A labor of many hours, for both print time and assembly. HueForge software is not open source and does cost money to purchase.
-<img src="https://github.com/user-attachments/assets/3b8d9e67-aecf-4c5f-9728-eb67d8219688" alt="HueForge display image" style="max-width: 100%; float: left; width: 300px;">
+<img src="https://github.com/user-attachments/assets/3b8d9e67-aecf-4c5f-9728-eb67d8219688" alt="HueForge display image" style="max-width: 100%; width: 300px;">
 
 
 ## Final Thoughts
