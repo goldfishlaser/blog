@@ -58,7 +58,6 @@ This project stands out to me for its ecological importance—decentralized recy
 
 
 ### Nevermore
-- [Web Site]()
 - [Github](https://github.com/nevermore3d/Nevermore_Micro)
 
 The Nevermore Micro is an activated carbon filter designed to mitigate the emissions of volatile organic compounds (VOCs) and ultrafine particles (UFPs) from 3D printers. If you've ever printed with ABS, ASA, polycarbonate, or other technical filaments, these materials release VOCs and UFPs that are potentially harmful when inhaled, especially over long periods or in poorly ventilated spaces. While larger manufacturers often have enclosed systems with built-in filters, hobbyist printers frequently run open-frame or partially enclosed machines in bedrooms, garages, or home offices, exactly the environments where long-term exposure could pose a risk.
@@ -71,7 +70,6 @@ It’s a community-built solution, designed by makers for makers. The Nevermore 
 * V1 Engineering [Site](https://www.v1e.com/): Very cool open-source machines, interactive demos, and I love that their builds are mostly 3D printed! <img src="https://github.com/user-attachments/assets/2b316cfa-b234-4d07-b5d0-719997997e8d" alt="Photo of V1 CNC machine" style="max-width: 100%; width: 300px;">
 * Positron [Site](https://www.positron3d.com/): A compact, portable, upside-down printer that caught my attention. 
 * Icoscanner [Site](https://www.whitcorp-labs.com/): A Dymaxion-influenced 3D photogrammetry scanner made from a geometric shell embedded with cameras.  <img src="https://github.com/user-attachments/assets/2e940327-ce39-47ab-b7e8-7f5fb918959e" alt="Photo of Icoscanner" style="max-width: 100%;  width: 300px;">
-
 * HueForge is a software platform that transforms digital images into 3D printable art with depth and color transitions. Their display was incredible-- they made it from many gorgeous faux bricks and showcased numerous art works. A labor of many hours, for both print time and assembly. HueForge software is not open source and does cost money to purchase.
 <img src="https://github.com/user-attachments/assets/3b8d9e67-aecf-4c5f-9728-eb67d8219688" alt="HueForge display image" style="max-width: 100%; width: 300px;">
 
