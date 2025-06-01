@@ -48,7 +48,11 @@ https://www.recreator3d.com/
 
 ### Nevermore
 https://github.com/nevermore3d/Nevermore_Micro
-The Nevermore Micro is an activated carbon filter designed to mitigate the emissions of volatile organic compounds (VOCs) and ultrafine particles (UFPs) from 3D printers.
+The Nevermore Micro is an activated carbon filter designed to mitigate the emissions of volatile organic compounds (VOCs) and ultrafine particles (UFPs) from 3D printers. If you've ever printed with ABS, ASA, polycarbonate, or other technical filaments, these materials release VOCs and UFPs that are potentially harmful when inhaled, especially over long periods or in poorly ventilated spaces. While larger manufacturers often have enclosed systems with built-in filters, hobbyist printers frequently run open-frame or partially enclosed machines in bedrooms, garages, or home offices, exactly the environments where long-term exposure could pose a risk.
+
+That’s what makes Nevermore so important. It’s a community-built solution, designed by makers for makers. The Nevermore Micro can be installed inside many printer enclosures, where it actively filters the air near the hotend and print bed. It’s compact, efficient, and—true to RepRap philosophy—completely open-source and printable.
+
+Personally, I see this kind of innovation as vital. Just like we wear safety goggles when soldering or use ventilation when laser cutting, we should normalize air filtration as a baseline best practice for filament-based 3D printing.
 
 ### Honorable Mentions
 * Cocoa Press: I loved seeing it in action, though I didn’t get to taste any samples. https://cocoapress.com/ ![Photo of Cocoa press](https://github.com/user-attachments/assets/5fbd8dab-6db2-48cb-a8b8-d893c2d6cb51)
