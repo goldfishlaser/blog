@@ -14,7 +14,6 @@ Lately, most of what I'm working on falls into four buckets:
 * Contributing to open-source - Supporting projects like BusKill, Tetra Bio Distributed, and Open Source Ecology.
 
 Topics I'd like to cover soon include:
-I plan to cover: 
 * My philosophy of technical communication and product marketing 
 * Trends in data center technology and industry policies 
 * Thoughts on job postings & career insights for tech communicators 
