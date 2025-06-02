@@ -19,6 +19,7 @@ If you want to avoid renting a car, there's a public transit option worth consid
 ## Festival Recap
 
 <img src="https://github.com/user-attachments/assets/4ee8f473-efd1-44fa-b5ca-5689665993d2" alt="Group photo at Recreator3D booth" style="max-width: 100%; width: 300px;">
+
 The festival was well attended and there were many great projects, makers, and companies to explore. If necessary, it is possible to cover the entire festival in a day, whether one goes on Saturday or Sunday. But as we were attending both days, which is ideal, we covered most of festival on Saturday, and left a little early to go have late lunch in Downtown Loveland. 
 
 I recommend having your ticket ready on your phone before you reach the entance to the festival. I did not and this caused a minor delay, as the horrible signal in the area made me unable to readily download my ticket. Even though the conference is free, the event runners want to check your ticket so they can know how many people are attending. Once we showed our tickets, we received a map, complementary bag, name tag, and swag. One of the swag trends at RepRap fests are poker chips. Poker chips make great souvenirs that are easy to collect and store because they're all the same form factor. I feel like this trend could catch on at DEFCON, too.
