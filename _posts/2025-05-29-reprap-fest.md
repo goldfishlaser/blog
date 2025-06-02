@@ -84,6 +84,9 @@ The Magpie is based on Rolohaun's Rook 3D printer, intended to be built out of s
 ## Final Thoughts
 I had a fantastic time at RMRRF and fully intend to attend again, maybe even at one of the sister events elsewhere in the country. It was an inspiring and energizing weekend that left me excited about the future of making and open-source tech.
 
+Check out  my sticker haul:
+![photo of many stickers](https://github.com/user-attachments/assets/6111629c-3820-479c-970a-ae3a58b63856)
+
 If you find yourself in Loveland, I highly recommend the food at Himalayan Curry Kabob. The menu is excellent, service is great, and everyone was impressed with our food.
 
 <img src="https://github.com/user-attachments/assets/ff8e198e-bfbb-42c7-ac85-f7f2102808b5" alt="Himalayan Curry Kabob meal photo" style="max-width: 100%; width: 300px;">
