@@ -36,7 +36,7 @@ Let's talk about some of my favorite projects at the festival.
 - [Web Site](https://www.reprap.org/wiki/BabyBelt)
 - [Github](https://github.com/RobMink/Babybelt)
 
-The Baby Belt is very cool and has immediately entered my queue of desired projects. I've always wanted a conveyer belt printer, and this conveyer belt printer in delightfully small form factor seems like a budget friendly choice that would meet my needs perfectly fine.  
+The Baby Belt is very cool, very cute, and has immediately entered my queue of desired projects. I've always wanted a conveyer belt printer, and this conveyer belt printer in delightfully small form factor seems like a budget friendly choice. I love the opportunity to express onself with the fabric conveyer belt bed. You can use a conveyer belt printer to print very long parts, but you can also use it to print the same thing many times. 
 
 ### Rack Robotics 
 <img src="https://github.com/user-attachments/assets/6c396602-8ea8-4d61-8ecc-fe1fe066bdf8" alt="Image of Rack Robotics demo" style="max-width: 100%; width: 300px; margin-right: 15px;">
