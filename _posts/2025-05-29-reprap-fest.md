@@ -21,7 +21,7 @@ I recommend having your ticket ready on your phone before you reach the entance 
 
 <img src="https://github.com/user-attachments/assets/4ee8f473-efd1-44fa-b5ca-5689665993d2" alt="Group photo at Recreator3D booth" style="max-width: 100%; width: 400px;">
 
-The festival was well-attended and busy both days and there were many great projects, makers, and companies to explore. If necessary, it is possible to cover the entire festival in a day, whether one goes on Saturday or Sunday. But as we were attending both days, which is ideal, we covered most of festival on Saturday, and left a little early to go have late lunch in Downtown Loveland. 
+The festival was well-attended and busy both days, with many great projects, makers, and companies to explore. If necessary, it is possible to cover the entire festival in a day, whether one goes on Saturday or Sunday. But as we were attending both days, which is ideal, we covered most of festival on Saturday, and left a little early to go have late lunch in Downtown Loveland. 
 
 At the entrance, greeters provided us a map, complementary bag, name tag, and swag. One of the swag trends at RepRap fests are poker chips. Poker chips make great souvenirs that are easy to collect and store because they're all the same form factor. (As an aside, I feel like this is a trend that could catch on at DEFCON, too, and I'm thinking of trying to start it).
 
