@@ -107,5 +107,5 @@ Check out  my sticker haul:
 
 If you find yourself in Loveland, I highly recommend the food at Himalayan Curry Kabob. The menu is excellent, service is great, and everyone was impressed with our food.
 
-<img src="https://github.com/user-attachments/assets/ff8e198e-bfbb-42c7-ac85-f7f2102808b5" alt="Himalayan Curry Kabob meal photo" style="max-width: 100%; width: 300px;">
+<img src="https://github.com/user-attachments/assets/ff8e198e-bfbb-42c7-ac85-f7f2102808b5" alt="Himalayan Curry Kabob meal photo" style="max-width: 100%; width: 500px;">
 
