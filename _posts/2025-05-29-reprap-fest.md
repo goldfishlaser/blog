@@ -83,19 +83,23 @@ The Magpie is based on Rolohaun's Rook 3D printer, intended to be built out of s
 
 ### Honorable Mentions
 * Cocoa Press [[Link]](https://cocoapress.com/): I loved seeing it in action, though I didn’t get to taste any samples. 
+
 <img src="https://github.com/user-attachments/assets/5fbd8dab-6db2-48cb-a8b8-d893c2d6cb51" alt="Photo of Cocoa press" style="max-width: 100%; width: 300px;">
 
 * Head(amame) [[Link]](https://headamame.com/): Great sound experience and love the idea of my own custom headphones -- I'd love to print one someday!
   
 * V1 Engineering [[Link]](https://www.v1e.com/): Very cool open-source machines, interactive demos, and I love that their builds are mostly 3D printed!   
+
 <img src="https://github.com/user-attachments/assets/2b316cfa-b234-4d07-b5d0-719997997e8d" alt="Photo of V1 CNC machine" style="width: 300px; max-width: 100%;">
 
 * Positron [[Link]](https://www.positron3d.com/): A compact, portable, upside-down printer that caught my attention.
   
 * Icoscanner [[Link]](https://www.whitcorp-labs.com/): A Dymaxion-influenced 3D photogrammetry scanner made from a geometric shell embedded with cameras.
+
 <img src="https://github.com/user-attachments/assets/2e940327-ce39-47ab-b7e8-7f5fb918959e" alt="Photo of Icoscanner" style="max-width: 100%;  width: 300px;">
 
 * HueForge [[Link]](https://shop.thehueforge.com/): is a software platform that transforms digital images into 3D printable art with depth and color transitions. Their display was incredible-- they made it from many gorgeous faux bricks and showcased numerous art works. A labor of many hours, for both print time and assembly. HueForge software is not open source and does cost money to purchase.
+
 <img src="https://github.com/user-attachments/assets/3b8d9e67-aecf-4c5f-9728-eb67d8219688" alt="HueForge display image" style="max-width: 100%; width: 300px;">
 
 
