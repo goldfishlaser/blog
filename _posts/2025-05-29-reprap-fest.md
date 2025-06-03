@@ -47,14 +47,15 @@ The Baby Belt is very cool, very cute, and has immediately entered my queue of d
 Rack Robotics had a live demonstration of wire EDM technology used in their desktop wire EDM machines. From their docs: "Wire Electrical Discharge Machining (Wire EDM) is a manufacturing process used to cut intricate shapes and contours in electrically conductive materials, such as metals. It operates by generating a series of rapid electrical discharges between a thin, electrically charged wire (usually made of brass) and the workpiece, which is submerged in a dielectric fluid (usually water). The electrical discharges create intense localized heat, which melts and vaporizes small portions of the material. This allows for the creation of complex geometries with high accuracy and fine surface finishes." This is incredibly cool tech and presents a compelling alternative to traditional CNC machining. Check out [this video at Rack Robottics RMRRF booth this year ](https://www.youtube.com/watch?v=YLF70yzrhWw) to see the demo.
 
 ### Recreator3D 
-<img src="https://github.com/user-attachments/assets/22f587be-dcb4-4ef0-aeee-6ec1c8fd3162" alt="Image of Recreator3D pullstruder" style="max-width: 100%; width: 300px;">
+<img src="https://github.com/user-attachments/assets/22f587be-dcb4-4ef0-aeee-6ec1c8fd3162" alt="Image of Recreator3D pultruder" style="max-width: 100%; width: 300px;">
+
 - [Web Site](https://www.recreator3d.com/)
 
 The Recreator3D project focuses on transforming used plastic bottles into usable 3D printing filament. From their docs: "The PET1 Plastic Pultrusion Unit allows use of valuable material you've already paid for! Being able to make filament in the comfort of your own home eliminates the need to transport filament, which reduces the carbon footprint, e-waste, and product waste."  <img src="https://github.com/user-attachments/assets/0e063743-20e1-4880-927c-e9ddb9e77df4" alt="Photo of plastic parts Sean gave me" style=" width: 220px; margin-left: 15px; margin-bottom: 10px; max-width: 100%;">
 
 I’d been following this project thanks to Sean, who kindly gave me some parts for the MK6 version printed in PET. I plan to start building mine soon. 
 
-This project stands out to me for its ecological importance—decentralized recycling is vital if we want to ensure that single-use plastics actually get reused. While I don’t go through many plastic bottles personally, I hope to collect some from my local community and convert them into filament at virtually no cost.
+This project stands out to me for its ecological importance, as decentralized recycling is vital if we want to ensure that single-use plastics actually get reused. While I don’t go through many plastic bottles personally, I hope to collect some from my local community and convert them into filament at virtually no cost.
 
 ### Nevermore
 - [Github](https://github.com/nevermore3d/Nevermore_Micro)
