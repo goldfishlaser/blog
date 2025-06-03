@@ -78,7 +78,7 @@ It’s a community-built solution, designed by makers for makers. The Nevermore 
 The Magpie is based on Rolohaun's Rook 3D printer, intended to be built out of spare parts. You can watch some footage of it at the festival [here](https://www.youtube.com/watch?v=MSMVrKLgyCM). I love that this project could help people maximize use of parts they already have and avoid waste.
 
 ### Honorable Mentions
-* Cocoa Press [[Link]]( https://cocoapress.com/): I loved seeing it in action, though I didn’t get to taste any samples. 
+* Cocoa Press [[Link]](https://cocoapress.com/): I loved seeing it in action, though I didn’t get to taste any samples. 
 <img src="https://github.com/user-attachments/assets/5fbd8dab-6db2-48cb-a8b8-d893c2d6cb51" alt="Photo of Cocoa press" style="max-width: 100%; width: 300px;">
 * Head(amame) [[Link]](https://headamame.com/): Great sound experience and love the idea of my own custom headphones -- I'd love to print one someday! 
 * V1 Engineering [[Link]](https://www.v1e.com/): Very cool open-source machines, interactive demos, and I love that their builds are mostly 3D printed!   
