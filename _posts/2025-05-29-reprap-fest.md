@@ -5,7 +5,7 @@ date: 2025-05-29
 categories: blog
 ---
 
-This year, I attended [Rocky Mountain RepRap Festival (RMRRF)](https://rockymountainreprapfestival.com/) on May 17-18, 2025 at the Pedersen Toyota Center in Loveland, Colorado. My interest in RepRap is longstanding. Learning about the goals of the RepRap project was one of the most formative influences on me as a young person. Ever since, I was attracted to projects with the core ideas of creating machines that replicate themselves, rapid iteration, open source community development, and decentralized manufacturing. In 2012–2014, I acquired the parts and built a Prusa Mendel XL RepRap.  Yet, this was my first time attending a RepRap festival. 
+This year, I attended [Rocky Mountain RepRap Festival (RMRRF)](https://rockymountainreprapfestival.com/) on May 17-18, 2025 at the Pedersen Toyota Center in Loveland, Colorado. My interest in RepRap is longstanding. Learning about the goals of the RepRap project was one of the most formative influences on me as a young person. Ever since, I have been attracted to projects with the core ideas of creating machines that replicate themselves, rapid iteration, open source community development, and decentralized manufacturing. In 2012–2014, I acquired the parts and built a Prusa Mendel XL RepRap.  Yet, this was my first time attending a RepRap festival. 
 
 <img src="https://github.com/user-attachments/assets/7867ce33-4b7e-4bc5-a637-00a25b8048a6" alt="Photo of Prusa Mendel XL RepRap" style="max-width: 100%; width: 400px;">
 
