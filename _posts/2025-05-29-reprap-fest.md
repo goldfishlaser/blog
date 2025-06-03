@@ -75,7 +75,7 @@ It’s a community-built solution, designed by makers for makers. The Nevermore 
 ### Magpie
 - [Github]( https://github.com/magpie-printer/magpie)
 
-The Magpie is based on Rolohaun's Rook 3D printer, intended to be built out of spare parts. You can watch some footage of it at the festival [here](https://www.youtube.com/watch?v=MSMVrKLgyCM). 
+The Magpie is based on Rolohaun's Rook 3D printer, intended to be built out of spare parts. You can watch some footage of it at the festival [here](https://www.youtube.com/watch?v=MSMVrKLgyCM). I love that this project could help people maximize use of parts they already have and avoid waste.
 
 ### Honorable Mentions
 * Cocoa Press [[Link]]( https://cocoapress.com/): I loved seeing it in action, though I didn’t get to taste any samples. 
