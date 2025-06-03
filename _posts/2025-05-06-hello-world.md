@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Hello world!"
+title: "New Blog Home"
 date: 2025-05-06
 categories: blog
 ---
 
-Hello there! I'm excited to start this new blog where I plan to discuss my thoughts on technology trends, what I'm learning, and what I'm working on. 
+Hello there! I'm excited to start this new blog where I plan to discuss my thoughts on technology trends, what I'm learning, and what I'm working on. Any posts prior to this one I migrated from my previous blog.
 
 Lately, most of what I'm working on falls into four buckets: 
 * Expanding my technical knowledge - from software documentation to security, DevOps, cloud, and networking
