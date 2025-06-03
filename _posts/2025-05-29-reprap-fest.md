@@ -32,6 +32,9 @@ On Sunday, while Sean showed his Mom some of the festival we had covered the pre
 
 Sean gave out circuit boards for the [Tetra Bio Distributed Powered Air-Purifying Respirator (PAPRa)](https://tetrabiodistributed.github.io/papra/) to people who had expressed interest Saturday. We hope that by spreading the word about this open source PAPRa project, we will help encourage the use of personal protective equipment (PPE) to the maker community. I recently began working on building one a PAPRa myself; as I write this blog post, my printer is making the parts. I'll be sharing my updates on that project in a future post.
 
+<img src="https://github.com/user-attachments/assets/f9742a97-a466-49b2-bf27-5b97dff4cf1c" alt="Photo of circuit board" style="max-width: 100%; width: 300px; margin-right: 15px;">
+
+
 Let's talk about some of my favorite projects at the festival. 
 
 ### Baby Belt
