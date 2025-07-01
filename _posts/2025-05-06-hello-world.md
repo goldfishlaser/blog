@@ -8,10 +8,10 @@ categories: blog
 Hello there! I'm excited to start this new blog where I plan to discuss my thoughts on technology trends, what I'm learning, and what I'm working on. Any posts prior to this one I migrated from my previous blog.
 
 Lately, most of what I'm working on falls into four buckets: 
-* Expanding my technical knowledge - from software documentation to security, DevOps, cloud, and networking
+* Expanding my technical knowledge - software documentation, information security, DevOps, cloud, and networking
 * Building and refining my portfolio - exporing new ideas for my web site and blog content
 * Self-hosting experiments - media servers, infrastructure tweaks, and more
-* Contributing to open-source - Supporting projects like BusKill, Tetra Bio Distributed, and Open Source Ecology.
+* Contributing to open-source - USB-A Magnetic Release, Tetra Bio Distributed, and Open Source Ecology
 
 Topics I'd like to cover soon include:
 * My philosophy of technical communication and product marketing 
