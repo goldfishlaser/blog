@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Distributed OSHW Framework"
+date: 2025-07-10
+categories: blog
+---
+
+<p>I've been spending the last few months attending the Mach 30 development team sessions to onboard myself to the Distributed OSHW Framework, a project that I believe is going to change the world of Open Source Hardware development. To get my feet wet, I pair programmed writing on disk model spec for the yaml-datastore which is going to be needed for the m30ml docs-as-models-as-code project.</p>
+
+<p>I am also helping write a landing page for the project. You can read my draft at this <a href="https://gist.github.com/goldfishlaser/f3edca82f08ec5ce424165b2a4449a4f">gist</a>. </p>
+
